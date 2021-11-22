@@ -1,0 +1,27 @@
+2021-11-22 22:43:09,481  INFO [main] BigSmall:48 - Browser opened succcessfully
+2021-11-22 22:43:11,893  INFO [main] BigSmall:61 -  entered
+2021-11-22 22:43:12,021  INFO [main] BigSmall:64 -  entered
+2021-11-22 22:43:14,289  INFO [main] BigSmall:66 - clicked on submit button
+2021-11-22 22:43:21,772  INFO [main] BigSmall:61 - simon@123 entered
+2021-11-22 22:43:21,897  INFO [main] BigSmall:64 - abcd entered
+2021-11-22 22:43:22,000  INFO [main] BigSmall:66 - clicked on submit button
+2021-11-22 22:43:28,783  INFO [main] BigSmall:61 - JackNJill@gmail.com entered
+2021-11-22 22:43:28,934  INFO [main] BigSmall:64 - JackNJill@123 entered
+2021-11-22 22:43:29,114  INFO [main] BigSmall:66 - clicked on submit button
+2021-11-22 22:43:40,053  INFO [main] BigSmall:79 - Successfully sorted the items in High to Low price
+2021-11-22 22:43:44,634  INFO [main] BigSmall:90 - Diaries displayed Successfully
+2021-11-22 22:43:44,794  INFO [main] BigSmall:93 - Succesffully verified product are displayed
+2021-11-22 22:43:47,464  INFO [main] BigSmall:101 - Successfully navigated to Christmas gifts
+2021-11-22 22:43:57,669  INFO [main] BigSmall:106 - Added product to the cart
+2021-11-22 22:44:13,788  INFO [main] BigSmall:113 - Proceeeded to checkout and returned to cart
+2021-11-22 22:44:27,623  INFO [main] BigSmall:128 - Items added to the wishlist
+2021-11-22 22:44:33,082  INFO [main] BigSmall:137 - Navigated to All of it Page
+2021-11-22 22:44:33,145  INFO [main] BigSmall:140 - Verified Auto Rickshaw Pen Stand
+2021-11-22 22:44:38,507  INFO [main] BigSmall:148 - Navigated to Wishlist Page 
+2021-11-22 22:44:40,701  INFO [main] BigSmall:154 - Products are displayed in Wishlist
+2021-11-22 22:44:42,607  INFO [main] BigSmall:161 - Navigated to About Us Page
+2021-11-22 22:44:42,713  INFO [main] BigSmall:164 - Verified title of About Us Page
+2021-11-22 22:44:44,862  INFO [main] BigSmall:171 - Navigated to Gift Cards Page
+2021-11-22 22:44:47,079  INFO [main] BigSmall:174 - Added Gift Card to cart
+2021-11-22 22:44:47,140  INFO [main] BigSmall:177 - Cart Verified Successfully 
+2021-11-22 22:44:49,967  INFO [main] BigSmall:193 - Title verified successfully 

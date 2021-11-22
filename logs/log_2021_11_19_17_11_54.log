@@ -1,0 +1,15 @@
+2021-11-19 23:18:11,584  INFO [main] BigSmall:48 - Browser opened succcessfully
+2021-11-19 23:18:15,033  INFO [main] BigSmall:61 -  entered
+2021-11-19 23:18:15,210  INFO [main] BigSmall:64 -  entered
+2021-11-19 23:18:19,632  INFO [main] BigSmall:66 - clicked on submit button
+2021-11-19 23:18:28,682  INFO [main] BigSmall:61 - simon@123 entered
+2021-11-19 23:18:28,830  INFO [main] BigSmall:64 - abcd entered
+2021-11-19 23:18:28,964  INFO [main] BigSmall:66 - clicked on submit button
+2021-11-19 23:18:36,473  INFO [main] BigSmall:61 - JackNJill@gmail.com entered
+2021-11-19 23:18:36,643  INFO [main] BigSmall:64 - JackNJill@123 entered
+2021-11-19 23:18:36,868  INFO [main] BigSmall:66 - clicked on submit button
+2021-11-19 23:18:53,602  INFO [main] BigSmall:79 - Successfully sorted the items in High to Low price
+2021-11-19 23:19:12,535  INFO [main] BigSmall:90 - Diaries displayed Successfully
+2021-11-19 23:19:13,626  INFO [main] BigSmall:93 - Succesffully verified product are displayed
+2021-11-19 23:19:17,197  INFO [main] BigSmall:101 - Successfully navigated to Christmas gifts
+2021-11-19 23:19:42,302  INFO [main] BigSmall:106 - Added product to the cart
